@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhash-koganti-arch
 - 👀 I’m interested in code
-- 🌱 I’m currently learning code
+- 🌱 I’m currently learning more and more code
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me skoganti@archmi.com
 
